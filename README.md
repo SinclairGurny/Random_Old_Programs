@@ -7,7 +7,7 @@ A collection of my old programs
   Basic Game touch I made to play on my phone, which had a sliding keyboard and a touchscreen.  
 
 ### Genetic Algorithm:
-  Simple genetic algorithms to train circles to move across the screen
+  Simple genetic algorithms to train circles to move across the screen  
   
 ### Insect Simulation:
   Simulates surface foraging behavior of Ants  
@@ -19,8 +19,8 @@ A collection of my old programs
 still has some **bugs** (*pun intended*)
 
 ### Ready Steady Bang:
-  My version of the game Ready, Steady, Bang!
-  Can be played on computer or on an android phone
+  My version of the game Ready, Steady, Bang!  
+  Can be played on computer or on an android phone  
 
 ### Shooting Range:
 A shooting range game
@@ -37,3 +37,4 @@ A shooting range game
   My checkers game written in Racket  
   AI uses tree-less analysis of moves  
   Can be played PvP or PvAI  
+
