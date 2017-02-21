@@ -18,10 +18,10 @@ A shooting range game
 * Red and Blue (hostage) - wait for ready signal
 
 ### Battleship:
-   My battleship game written in Racket
-   Current AI only shoots randomly
+   My battleship game written in Racket  
+   Current AI only shoots randomly  
 
 ### Checkers AI:
-  My checkers game written in Racket
-  AI uses tree-less analysis of moves
-  Can be played PvP or PvAI
+  My checkers game written in Racket  
+  AI uses tree-less analysis of moves  
+  Can be played PvP or PvAI  
