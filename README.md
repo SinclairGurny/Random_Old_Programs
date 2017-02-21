@@ -11,17 +11,17 @@ Collection of my old programs
   Can be played on computer or on an android phone
 
 ### Shooting Range:
-  A shooting range game
-  **3 types of targets:**
+A shooting range game
+**3 types of targets:**
 * Red - tap as fast as possible
 * Blue - don't tap
 * Red and Blue (hostage) - wait for ready signal
- 
- ### Battleship:
+
+### Battleship:
    My battleship game written in Racket
    Current AI only shoots randomly
 
- ### Checkers AI:
+### Checkers AI:
   My checkers game written in Racket
   AI uses tree-less analysis of moves
   Can be played PvP or PvAI
